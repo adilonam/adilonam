@@ -2,7 +2,7 @@
 - 👀 I’m interested in web develpement
 - 🌱 I’m currently learning artifitial intelligent with python
 - 💞️ I’m looking to collaborate on web application in Django and React
-- 📫 How to reach me adil.sefrou@gmail.com
+- 📫 How to reach me adil.abbadi.1996@gmail.com
 
 <!---
 adilonam/adilonam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
